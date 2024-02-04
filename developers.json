@@ -1,0 +1,9 @@
+{
+  "activeDevelopers": ["hanagertrudekim", "HAEROOL", "hoooooony", "MinGu-Jeong", "dooohun", "chaeseungyun", "hyejun0228", "kimeodml", "LUNA-KK", "junghaesung79", "haejinyun", "daepan", "D0Dam"],
+  "groups": {
+    "JJBAKSA_FRONT_END": ["hanagertrudekim", "chaeseungyun", "hyejun0228", "kimeodml", "LUNA-KK", "junghaesung79", "D0Dam"],
+    "KOIN_OWNER_WEB": ["HAEROOL", "hoooooony", "MinGu-Jeong", "dooohun", "hanagertrudekim", "haejinyun"],
+    "KOIN_WEB_RECODE": ["ChoiWonBeen", "daepan"],
+    "BCSD_INTERNAL_WEB": ["ChoiWonBeen", "hanagertrudekim", "MinGu-Jeong", "dooohun"]
+  }
+}
